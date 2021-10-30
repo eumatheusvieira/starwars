@@ -1,1 +1,1 @@
-# starwars
+Projeto para estudo!
